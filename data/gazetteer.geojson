@@ -1,0 +1,85 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD_MG_01",
+        "name": "Mahatma Gandhi Road",
+        "aliases": ["mg road", "m.g. road", "mg rd", "mahatma gandhi rd"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6074, 12.9756],
+          [77.6150, 12.9750],
+          [77.6230, 12.9745]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD_BRIGADE_01",
+        "name": "Brigade Road",
+        "aliases": ["brigade rd", "brigade road", "brigade"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6074, 12.9756],
+          [77.6070, 12.9690],
+          [77.6065, 12.9640]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD_RESIDENCY_01",
+        "name": "Residency Road",
+        "aliases": ["residency rd", "residency road", "field marshal cariappa rd"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6000, 12.9700],
+          [77.6070, 12.9690],
+          [77.6150, 12.9680]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD_INDIRA_100FT",
+        "name": "100 Feet Road Indiranagar",
+        "aliases": ["100 ft road", "100 feet rd", "indiranagar 100ft road", "100 feet road"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6400, 12.9780],
+          [77.6410, 12.9700],
+          [77.6420, 12.9600]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROAD_OLD_AIRPORT_01",
+        "name": "Old Airport Road",
+        "aliases": ["old airport rd", "old airport road", "vimanapura road"]
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [77.6420, 12.9600],
+          [77.6550, 12.9580],
+          [77.6700, 12.9550]
+        ]
+      }
+    }
+  ]
+}
